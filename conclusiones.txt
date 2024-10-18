@@ -1,0 +1,10 @@
+Conclusiones: 
+
+*La ejecución de las pruebas fueron satisfactorias ya que pasaron al 100% todos los casos de pruebas de servicios REST establecidos, verificando la integridad de los datos al garantizar la creación, consulta y actualizacion de una mascota.
+
+*Se verifica que tiene un buen rendimiento del sistema ya que el tiempo de respuesta de las APIS es 1872 ms.
+
+
+Recomendación:
+1. Cuando se realice la creacion o actualizacion de una mascota se sugiere validar que los campos no se encuentren vacios.
+2. Se recomienda ejecutar pruebas de carga antes de la puesta en producción para verificar que el sistema soporte gran cantidad de usuarios y que el sistema no tenga problemas de rendimiento o fallos y vaya a colapsar.

@@ -1,0 +1,20 @@
+{
+  "AddPet":{
+    "id": 0,
+    "category": {
+      "id": 1,
+      "name": "Canino"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Prueba"
+      }
+    ],
+    "status": "available"
+  }
+  }
