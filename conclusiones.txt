@@ -1,5 +1,7 @@
 Conclusiones: 
 
+* Al realizar las pruebas de API utilizando la herramienta Karate ayuda a tener mayor cobertura de las pruebas, detección temprana de incidencias y la generación de reportes de manera automática.
+
 *La ejecución de las pruebas fueron satisfactorias ya que pasaron al 100% todos los casos de pruebas de servicios REST establecidos, verificando la integridad de los datos al garantizar la creación, consulta y actualizacion de una mascota.
 
 *Se verifica que tiene un buen rendimiento del sistema ya que el tiempo de respuesta de las APIS es 1872 ms.
